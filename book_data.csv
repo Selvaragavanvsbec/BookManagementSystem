@@ -1,0 +1,378 @@
+book_id,title,author,genre,publication_year,publisher,language,page_count,rating,description,isbn,price
+0,The God of Small Things,Arundhati Roy,Literary Fiction,1997,Random House,English,321,4.3,"The story of the tragic decline of an Indian family whose members suffer the terrible consequences of forbidden love.",978-0679457312,14.99
+1,The White Tiger,Aravind Adiga,Contemporary Fiction,2008,Free Press,English,304,4.1,"A story about a man's journey from being a poor villager to becoming a successful entrepreneur in modern India.",978-1416562597,15.99
+2,The Palace of Illusions,Chitra Banerjee Divakaruni,Mythological Fiction,2008,Doubleday,English,360,4.4,"A retelling of the Mahabharata from Draupadi's perspective.",978-0385520365,16.99
+3,The Immortals of Meluha,Amish Tripathi,Mythological Fiction,2010,Westland,English,390,4.5,"The first book in the Shiva Trilogy, reimagining Lord Shiva as a man.",978-9380658742,12.99
+4,The Namesake,Jhumpa Lahiri,Contemporary Fiction,2003,Houghton Mifflin,English,291,4.2,"The story of a Bengali family's struggle to assimilate in America.",978-0395927212,13.99
+5,The Guide,R.K. Narayan,Classic,1958,Penguin Books,English,220,4.0,"A story of a tour guide who becomes a spiritual guru.",978-0143039642,9.99
+6,The Discovery of India,Jawaharlal Nehru,History,1946,Oxford University Press,English,656,4.6,"A comprehensive history of India from ancient times to the British Raj.",978-0195623598,24.99
+7,The Room on the Roof,Ruskin Bond,Coming of Age,1956,Penguin Books,English,192,4.2,"A story of an orphaned Anglo-Indian boy's coming of age in Dehradun.",978-0143333634,8.99
+8,The Inheritance of Loss,Kiran Desai,Literary Fiction,2006,Grove Press,English,324,4.0,"A story about the lives of people in India and America, dealing with globalization and immigration.",978-0802142818,15.99
+9,The Great Indian Novel,Shashi Tharoor,Historical Fiction,1989,Penguin Books,English,423,4.3,"A satirical novel that parallels the Indian independence movement with the Mahabharata.",978-0140120493,14.99
+10,The Shadow Lines,Amitav Ghosh,Literary Fiction,1988,Penguin Books,English,246,4.4,"A novel about the impact of political borders on human relationships.",978-0143066556,12.99
+11,The Glass Palace,Amitav Ghosh,Historical Fiction,2000,Random House,English,548,4.5,"A historical novel spanning Burma, India, and Malaysia.",978-0375504315,16.99
+12,The Lowland,Jhumpa Lahiri,Literary Fiction,2013,Knopf,English,340,4.1,"A story of two brothers and the choices that shape their lives.",978-0307265746,15.99
+13,The Hungry Tide,Amitav Ghosh,Literary Fiction,2004,Houghton Mifflin,English,333,4.3,"A novel set in the Sundarbans, exploring the relationship between humans and nature.",978-0618329972,14.99
+14,The Blue Umbrella,Ruskin Bond,Children's Fiction,1980,Puffin Books,English,96,4.5,"A heartwarming story about a young girl and her prized possession.",978-0143333627,7.99
+15,The Serpent's Revenge,Sudha Murty,Mythological Fiction,2018,Penguin Books,English,208,4.2,"A collection of stories from Indian mythology.",978-0143442374,9.99
+16,The Sialkot Saga,Ashwin Sanghi,Historical Fiction,2016,Westland,English,520,4.4,"A story spanning generations, from the partition to modern India.",978-9385724357,16.99
+17,The Rozabal Line,Ashwin Sanghi,Thriller,2007,Westland,English,380,4.0,"A thriller exploring the connection between Jesus Christ and Kashmir.",978-9380658674,12.99
+18,The Krishna Key,Ashwin Sanghi,Mythological Fiction,2012,Westland,English,480,4.3,"A thriller combining mythology with modern science.",978-9381626689,14.99
+19,The Oath of the Vayuputras,Amish Tripathi,Mythological Fiction,2013,Westland,English,420,4.6,"The final book in the Shiva Trilogy.",978-9381626375,15.99
+20,The Secret of the Nagas,Amish Tripathi,Mythological Fiction,2011,Westland,English,396,4.5,"The second book in the Shiva Trilogy.",978-9380658643,14.99
+21,The Scion of Ikshvaku,Amish Tripathi,Mythological Fiction,2015,Westland,English,376,4.4,"The first book in the Ram Chandra Series.",978-9385152141,13.99
+22,The Sita's Sister,Kavita Kane,Mythological Fiction,2014,Rupa Publications,English,312,4.3,"A retelling of the Ramayana from Urmila's perspective.",978-8129135728,11.99
+23,The Forest of Enchantments,Chitra Banerjee Divakaruni,Mythological Fiction,2019,HarperCollins,English,368,4.4,"A retelling of the Ramayana from Sita's perspective.",978-9353025924,16.99
+24,The Pregnant King,Devdutt Pattanaik,Mythological Fiction,2008,Penguin Books,English,280,4.2,"A novel exploring gender and sexuality in Indian mythology.",978-0143063470,12.99
+25,The Difficulty of Being Good,Gurcharan Das,Philosophy,2009,Penguin Books,English,480,4.3,"An exploration of the Mahabharata's moral dilemmas.",978-0143064828,15.99
+26,The Argumentative Indian,Amartya Sen,Essays,2005,Penguin Books,English,432,4.4,"A collection of essays on Indian history, culture, and identity.",978-0141012117,14.99
+27,The Story of My Experiments with Truth,Mahatma Gandhi,Autobiography,1927,Navajivan Publishing,English,528,4.7,"Mahatma Gandhi's autobiography.",978-8172292941,12.99
+28,The Man Who Knew Infinity,Robert Kanigel,Biography,1991,Washington Square Press,English,438,4.6,"A biography of the mathematical genius Srinivasa Ramanujan.",978-0671750619,16.99
+29,The Last Lecture,Randy Pausch,Memoir,2008,Hyperion,English,206,4.7,"A professor's final lecture about achieving childhood dreams.",978-1401323257,13.99
+30,The Art of War,Sun Tzu,Strategy,5th century BC,Penguin Books,English,273,4.5,"An ancient Chinese military treatise.",978-0140439199,9.99
+31,The Alchemist,Paulo Coelho,Fantasy,1988,HarperOne,English,208,4.5,"A philosophical novel about following one's dreams.",978-0062315007,14.99
+32,The Kite Runner,Khaled Hosseini,Drama,2003,Riverhead Books,English,371,4.7,"A story of friendship and redemption in Afghanistan.",978-1594631931,15.99
+33,The Midnight's Children,Salman Rushdie,Magical Realism,1981,Random House,English,536,4.4,"A story of children born at the moment of India's independence.",978-0679725402,16.99
+34,The Satanic Verses,Salman Rushdie,Magical Realism,1988,Viking Press,English,546,4.2,"A controversial novel exploring themes of migration and identity.",978-0670825370,15.99
+35,The Moor's Last Sigh,Salman Rushdie,Magical Realism,1995,Random House,English,435,4.3,"A family saga set in modern India.",978-0679766740,14.99
+36,The Golden House,Salman Rushdie,Contemporary Fiction,2017,Random House,English,380,4.1,"A novel about a mysterious family in modern America.",978-0399592805,16.99
+37,The Ground Beneath Her Feet,Salman Rushdie,Magical Realism,1999,Random House,English,575,4.2,"A rock and roll love story with mythological elements.",978-0312270803,15.99
+38,The Enchantress of Florence,Salman Rushdie,Historical Fiction,2008,Random House,English,349,4.0,"A historical novel set in Renaissance Florence and Mughal India.",978-0679640414,14.99
+39,The Ministry of Utmost Happiness,Arundhati Roy,Literary Fiction,2017,Knopf,English,449,4.2,"A novel about contemporary India and its social issues.",978-0525434796,16.99
+40,The Algebra of Infinite Justice,Arundhati Roy,Essays,2002,Penguin Books,English,320,4.3,"A collection of political essays.",978-0141001425,13.99
+41,The End of Imagination,Arundhati Roy,Essays,1998,South End Press,English,96,4.4,"Essays on nuclear weapons and Indian politics.",978-0896086022,10.99
+42,The Doctor and the Saint,Arundhati Roy,Essays,2017,Haymarket Books,English,160,4.5,"An examination of caste and politics in India.",978-1608467792,12.99
+43,The Book of Gold Leaves,Mirza Waheed,Literary Fiction,2014,Viking,English,320,4.2,"A love story set in Kashmir.",978-0670087189,14.99
+44,The Collaborator,Mirza Waheed,Literary Fiction,2011,Viking,English,304,4.3,"A novel about the conflict in Kashmir.",978-0670087189,13.99
+45,The Book of Chocolate Saints,Jeet Thayil,Literary Fiction,2017,Aleph Book Company,English,496,4.1,"A novel about art, poetry, and politics in modern India.",978-9386021058,16.99
+46,The Narcopolis,Jeet Thayil,Literary Fiction,2012,Faber & Faber,English,304,4.4,"A novel about the drug culture in Mumbai.",978-0571288951,14.99
+47,The Illicit Happiness of Other People,Manu Joseph,Literary Fiction,2012,John Murray,English,304,4.2,"A story about a family in 1980s Madras.",978-1444742357,13.99
+48,The Serious Men,Manu Joseph,Literary Fiction,2010,Fourth Estate,English,320,4.3,"A satirical novel about science and society in India.",978-0007350438,12.99
+49,The Parcel,Anosh Irani,Literary Fiction,2016,Knopf Canada,English,320,4.4,"A novel about the transgender community in Mumbai.",978-0345816551,15.99
+50,The Song of Kahunsha,Anosh Irani,Literary Fiction,2006,Doubleday Canada,English,304,4.2,"A story about street children in Mumbai.",978-0385660970,13.99
+51,The Lives of Others,Neel Mukherjee,Literary Fiction,2014,Chatto & Windus,English,528,4.5,"A novel about a family in 1960s Calcutta.",978-0701187511,16.99
+52,The Past Continuous,Neel Mukherjee,Literary Fiction,2008,Picador,English,320,4.3,"A story about a family in modern India.",978-0330450234,14.99
+53,Ponniyin Selvan,Kalki Krishnamurthy,Historical Fiction,1955,Vikatan Publications,Tamil,2400,4.8,"A historical novel set in the Chola dynasty, following the life of Arulmozhi Varman.",978-8184687541,29.99
+54,Silappadikaram,Ilango Adigal,Epic,2nd century CE,New Century Book House,Tamil,400,4.7,"One of the five great epics of Tamil literature, telling the story of Kannagi.",978-8120600135,19.99
+55,Manimekalai,Seethalai Sathanar,Epic,2nd century CE,New Century Book House,Tamil,350,4.6,"A Buddhist epic poem and sequel to Silappadikaram.",978-8120600142,18.99
+56,Thirukkural,Thiruvalluvar,Philosophy,1st century BCE,New Century Book House,Tamil,1330,4.9,"A classic Tamil text consisting of 1,330 couplets dealing with everyday virtues.",978-8120600138,15.99
+57,Periya Puranam,Sekkizhar,Religious,12th century CE,New Century Book House,Tamil,450,4.5,"A Tamil poetic account depicting the lives of the 63 Nayanars.",978-8120600159,16.99
+58,Naalayira Divya Prabandham,Nammalvar,Religious,8th-9th century CE,New Century Book House,Tamil,4000,4.8,"A collection of 4,000 Tamil verses composed by the 12 Alvars.",978-8120600166,24.99
+59,Tholkappiyam,Tholkappiyar,Grammar,3rd century BCE,New Century Book House,Tamil,1612,4.7,"The earliest surviving work of Tamil literature and grammar.",978-8120600173,17.99
+60,Ainkurunuru,Kapilar,Poetry,1st century CE,New Century Book House,Tamil,500,4.6,"A classical Tamil poetic work, part of the Eight Anthologies.",978-8120600180,14.99
+61,Purananuru,Multiple Authors,Poetry,1st century CE,New Century Book House,Tamil,400,4.7,"A classical Tamil poetic work, part of the Eight Anthologies.",978-8120600197,13.99
+62,Pathitrupathu,Multiple Authors,Poetry,1st century CE,New Century Book House,Tamil,300,4.6,"A classical Tamil poetic work, part of the Eight Anthologies.",978-8120600203,12.99
+63,Paripaadal,Multiple Authors,Poetry,1st century CE,New Century Book House,Tamil,350,4.5,"A classical Tamil poetic work, part of the Eight Anthologies.",978-8120600210,13.99
+64,Kalithogai,Multiple Authors,Poetry,1st century CE,New Century Book House,Tamil,400,4.6,"A classical Tamil poetic work, part of the Eight Anthologies.",978-8120600227,14.99
+65,Kuruntogai,Multiple Authors,Poetry,1st century CE,New Century Book House,Tamil,300,4.7,"A classical Tamil poetic work, part of the Eight Anthologies.",978-8120600234,12.99
+66,Natrinai,Multiple Authors,Poetry,1st century CE,New Century Book House,Tamil,350,4.6,"A classical Tamil poetic work, part of the Eight Anthologies.",978-8120600241,13.99
+67,Agananuru,Multiple Authors,Poetry,1st century CE,New Century Book House,Tamil,400,4.7,"A classical Tamil poetic work, part of the Eight Anthologies.",978-8120600258,14.99
+68,Parthiban Kanavu,Kalki Krishnamurthy,Historical Fiction,1942,Vikatan Publications,Tamil,350,4.8,"A historical novel set in the Pallava period.",978-8184687558,16.99
+69,Sivagamiyin Sabatham,Kalki Krishnamurthy,Historical Fiction,1944,Vikatan Publications,Tamil,400,4.7,"A historical novel set in the Pallava period.",978-8184687565,17.99
+70,Alai Osai,Kalki Krishnamurthy,Historical Fiction,1948,Vikatan Publications,Tamil,450,4.8,"A historical novel set during the Indian independence movement.",978-8184687572,18.99
+71,Thiruvilayadal Puranam,Paranjothi Munivar,Religious,16th century CE,New Century Book House,Tamil,300,4.6,"A collection of 64 stories about Lord Shiva.",978-8120600265,15.99
+72,Kandha Puranam,Kachiappa Sivachariyar,Religious,15th century CE,New Century Book House,Tamil,350,4.7,"A Tamil adaptation of the Skanda Purana.",978-8120600272,16.99
+73,Periya Puranam,Sekkizhar,Religious,12th century CE,New Century Book House,Tamil,450,4.5,"A Tamil poetic account depicting the lives of the 63 Nayanars.",978-8120600289,17.99
+74,Thiruvasagam,Manikkavasagar,Religious,9th century CE,New Century Book House,Tamil,400,4.8,"A collection of Tamil hymns in praise of Lord Shiva.",978-8120600296,16.99
+75,Thiruvachakam,Manikkavasagar,Religious,9th century CE,New Century Book House,Tamil,350,4.7,"A collection of Tamil hymns in praise of Lord Shiva.",978-8120600302,15.99
+76,Thirumandiram,Thirumoolar,Religious,7th century CE,New Century Book House,Tamil,3000,4.9,"A Tamil poetic work dealing with yoga, tantra, and philosophy.",978-8120600319,29.99
+77,Thiruvalluva Maalai,Multiple Authors,Poetry,10th century CE,New Century Book House,Tamil,200,4.6,"A collection of 55 verses in praise of Thiruvalluvar.",978-8120600326,12.99
+78,Thirukkural (English Translation),Thiruvalluvar,Philosophy,1st century BCE,New Century Book House,English,500,4.8,"English translation of the classic Tamil text on ethics and morality.",978-8120600333,19.99
+79,Ponniyin Selvan (English Translation),Kalki Krishnamurthy,Historical Fiction,1955,Vikatan Publications,English,1200,4.7,"English translation of the classic historical novel set in the Chola dynasty.",978-8184687589,34.99
+80,Silappadikaram (English Translation),Ilango Adigal,Epic,2nd century CE,New Century Book House,English,400,4.6,"English translation of the classic Tamil epic.",978-8120600340,22.99
+81,Manimekalai (English Translation),Seethalai Sathanar,Epic,2nd century CE,New Century Book House,English,350,4.5,"English translation of the Buddhist epic poem.",978-8120600357,21.99
+82,Tholkappiyam (English Translation),Tholkappiyar,Grammar,3rd century BCE,New Century Book House,English,800,4.7,"English translation of the earliest Tamil grammar text.",978-8120600364,24.99
+83,Pathitrupathu (English Translation),Multiple Authors,Poetry,1st century CE,New Century Book House,English,300,4.6,"English translation of the classical Tamil poetic work.",978-8120600371,18.99
+84,Paripaadal (English Translation),Multiple Authors,Poetry,1st century CE,New Century Book House,English,350,4.5,"English translation of the classical Tamil poetic work.",978-8120600388,19.99
+85,Kalithogai (English Translation),Multiple Authors,Poetry,1st century CE,New Century Book House,English,400,4.6,"English translation of the classical Tamil poetic work.",978-8120600395,20.99
+86,Kuruntogai (English Translation),Multiple Authors,Poetry,1st century CE,New Century Book House,English,300,4.7,"English translation of the classical Tamil poetic work.",978-8120600401,17.99
+87,Natrinai (English Translation),Multiple Authors,Poetry,1st century CE,New Century Book House,English,350,4.6,"English translation of the classical Tamil poetic work.",978-8120600418,18.99
+88,Agananuru (English Translation),Multiple Authors,Poetry,1st century CE,New Century Book House,English,400,4.7,"English translation of the classical Tamil poetic work.",978-8120600425,19.99
+89,Parthiban Kanavu (English Translation),Kalki Krishnamurthy,Historical Fiction,1942,Vikatan Publications,English,350,4.8,"English translation of the historical novel set in the Pallava period.",978-8184687596,21.99
+90,Sivagamiyin Sabatham (English Translation),Kalki Krishnamurthy,Historical Fiction,1944,Vikatan Publications,English,400,4.7,"English translation of the historical novel set in the Pallava period.",978-8184687602,22.99
+91,Alai Osai (English Translation),Kalki Krishnamurthy,Historical Fiction,1948,Vikatan Publications,English,450,4.8,"English translation of the historical novel set during the Indian independence movement.",978-8184687619,23.99
+92,Thiruvilayadal Puranam (English Translation),Paranjothi Munivar,Religious,16th century CE,New Century Book House,English,300,4.6,"English translation of the collection of stories about Lord Shiva.",978-8120600432,18.99
+93,Kandha Puranam (English Translation),Kachiappa Sivachariyar,Religious,15th century CE,New Century Book House,English,350,4.7,"English translation of the Tamil adaptation of the Skanda Purana.",978-8120600449,19.99
+94,Periya Puranam (English Translation),Sekkizhar,Religious,12th century CE,New Century Book House,English,450,4.5,"English translation of the Tamil poetic account of the 63 Nayanars.",978-8120600456,20.99
+95,Thiruvasagam (English Translation),Manikkavasagar,Religious,9th century CE,New Century Book House,English,400,4.8,"English translation of the collection of Tamil hymns in praise of Lord Shiva.",978-8120600463,19.99
+96,Thiruvachakam (English Translation),Manikkavasagar,Religious,9th century CE,New Century Book House,English,350,4.7,"English translation of the collection of Tamil hymns in praise of Lord Shiva.",978-8120600470,18.99
+97,Thirumandiram (English Translation),Thirumoolar,Religious,7th century CE,New Century Book House,English,1500,4.9,"English translation of the Tamil poetic work on yoga and philosophy.",978-8120600487,39.99
+98,Thiruvalluva Maalai (English Translation),Multiple Authors,Poetry,10th century CE,New Century Book House,English,200,4.6,"English translation of the collection of verses in praise of Thiruvalluvar.",978-8120600494,15.99
+99,Naalayira Divya Prabandham (English Translation),Nammalvar,Religious,8th-9th century CE,New Century Book House,English,2000,4.8,"English translation of the collection of 4,000 Tamil verses by the 12 Alvars.",978-8120600500,29.99
+100,Ainkurunuru (English Translation),Kapilar,Poetry,1st century CE,New Century Book House,English,500,4.6,"English translation of the classical Tamil poetic work.",978-8120600517,20.99
+101,Purananuru (English Translation),Multiple Authors,Poetry,1st century CE,New Century Book House,English,400,4.7,"English translation of the classical Tamil poetic work.",978-8120600524,19.99
+102,Pathitrupathu (English Translation),Multiple Authors,Poetry,1st century CE,New Century Book House,English,300,4.6,"English translation of the classical Tamil poetic work.",978-8120600531,18.99
+103,The Great Expectations,Charles Dickens,Classic,1861,Penguin Classics,English,544,4.7,"A coming-of-age novel about Pip's journey to becoming a gentleman.",978-0141439563,9.99
+104,The Count of Monte Cristo,Alexandre Dumas,Adventure,1844,Penguin Classics,English,1276,4.8,"An adventure novel about revenge and redemption.",978-0140449266,12.99
+105,The Brothers Karamazov,Fyodor Dostoevsky,Philosophical,1880,Penguin Classics,English,796,4.8,"A philosophical novel about family, faith, and morality.",978-0140449242,14.99
+106,The Picture of Dorian Gray,Oscar Wilde,Gothic,1890,Penguin Classics,English,254,4.6,"A Gothic novel about a man who remains young while his portrait ages.",978-0141439570,7.99
+107,The Bell Jar,Sylvia Plath,Psychological,1963,Harper Perennial,English,288,4.5,"A semi-autobiographical novel about mental illness.",978-0060837020,14.99
+108,The Road,Cormac McCarthy,Post-Apocalyptic,2006,Vintage,English,287,4.7,"A post-apocalyptic novel about a father and son's journey.",978-0307387899,15.99
+109,The Secret History,Donna Tartt,Psychological,1992,Vintage,English,559,4.5,"A psychological thriller about a group of classics students.",978-1400031702,16.99
+110,The Goldfinch,Donna Tartt,Drama,2013,Little,English,771,4.4,"A novel about a boy who survives a terrorist attack.",978-0316055437,18.99
+111,The Night Circus,Erin Morgenstern,Fantasy,2011,Anchor,English,387,4.6,"A fantasy novel about a magical competition.",978-0307744432,15.99
+112,The Ocean at the End of the Lane,Neil Gaiman,Fantasy,2013,William Morrow,English,181,4.7,"A fantasy novel about childhood memories and magic.",978-0062255655,14.99
+113,The Song of Achilles,Madeline Miller,Historical Fiction,2011,Ecco,English,416,4.8,"A retelling of the Iliad from Patroclus's perspective.",978-0062060624,15.99
+114,The Book Thief,Markus Zusak,Historical Fiction,2005,Knopf,English,552,4.7,"A novel about a young girl in Nazi Germany.",978-0375842207,12.99
+115,The Da Vinci Code,Dan Brown,Thriller,2003,Anchor,English,489,4.2,"A mystery thriller about a conspiracy in the Catholic Church.",978-0307474278,9.99
+116,The Hunger Games,Suzanne Collins,Dystopian,2008,Scholastic Press,English,374,4.7,"A dystopian novel about a televised fight to the death.",978-0439023481,14.99
+117,The Fault in Our Stars,John Green,Romance,2012,Dutton Books,English,313,4.7,"A young adult novel about two teenagers with cancer.",978-0525478812,12.99
+118,The Girl with the Dragon Tattoo,Stieg Larsson,Thriller,2005,Vintage,English,465,4.4,"A crime thriller about a journalist and a hacker.",978-0307454546,15.99
+119,The Help,Kathryn Stockett,Historical Fiction,2009,Berkley,English,451,4.8,"A novel about African American maids in 1960s Mississippi.",978-0425232200,16.99
+120,The Martian,Andy Weir,Science Fiction,2011,Broadway Books,English,369,4.7,"A science fiction novel about an astronaut stranded on Mars.",978-0553418026,15.99
+121,The Handmaid's Tale,Margaret Atwood,Dystopian,1985,Anchor,English,311,4.7,"A dystopian novel about a totalitarian society.",978-0525562627,14.99
+122,The Name of the Wind,Patrick Rothfuss,Fantasy,2007,DAW,English,662,4.8,"A fantasy novel about a musician and magician.",978-0756404741,17.99
+123,The Silent Patient,Alex Michaelides,Thriller,2019,Celadon Books,English,352,4.5,"A psychological thriller about a woman who shoots her husband.",978-1250301697,16.99
+124,The Midnight Library,Matt Haig,Fantasy,2020,Viking,English,304,4.4,"A novel about infinite possibilities and parallel lives.",978-0525559474,15.99
+125,Project Hail Mary,Andy Weir,Science Fiction,2021,Ballantine Books,English,496,4.8,"A science fiction novel about an astronaut's mission to save humanity.",978-1524741338,17.99
+126,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Historical Fiction,2017,Atria Books,English,389,4.7,"A novel about a reclusive Hollywood legend.",978-1501161933,16.99
+127,Verity,Colleen Hoover,Thriller,2018,Grand Central Publishing,English,336,4.6,"A psychological thriller about a writer's dark secrets.",978-1538724736,15.99
+128,The House in the Cerulean Sea,T.J. Klune,Fantasy,2020,Tor Books,English,398,4.8,"A fantasy novel about a caseworker at a magical orphanage.",978-1250217288,16.99
+129,The Invisible Life of Addie LaRue,V.E. Schwab,Fantasy,2020,Tor Books,English,448,4.7,"A fantasy novel about a woman who makes a Faustian bargain.",978-0765387561,17.99
+130,The Thursday Murder Club,Richard Osman,Mystery,2020,Pamela Dorman Books,English,384,4.5,"A mystery novel about a group of elderly friends solving crimes.",978-0241988268,16.99
+131,The Last Thing He Told Me,Laura Dave,Thriller,2021,Simon & Schuster,English,320,4.6,"A thriller about a woman searching for her missing husband.",978-1501171345,15.99
+132,The Lincoln Highway,Amor Towles,Historical Fiction,2021,Viking,English,592,4.7,"A novel about a road trip across 1950s America.",978-0735222359,18.99
+133,The Paris Apartment,Lucy Foley,Thriller,2022,William Morrow,English,416,4.4,"A thriller set in a Paris apartment building.",978-0008384745,16.99
+134,The Maid,Nita Prose,Mystery,2022,Ballantine Books,English,304,4.5,"A mystery novel about a hotel maid who finds a dead guest.",978-0593356159,15.99
+135,To Kill a Mockingbird,Harper Lee,Classic,1960,Grand Central Publishing,English,281,4.8,"A classic novel about racial injustice and moral growth in the American South.",978-0446310789,14.99
+136,1984,George Orwell,Dystopian,1949,Signet Classic,English,328,4.7,"A dystopian novel about totalitarianism and surveillance.",978-0451524935,9.99
+137,Pride and Prejudice,Jane Austen,Romance,1813,Penguin Classics,English,432,4.8,"A romantic novel about the Bennet family and their daughters' marriages.",978-0141439518,7.99
+138,The Great Gatsby,F. Scott Fitzgerald,Classic,1925,Scribner,English,180,4.5,"A novel about the American Dream and the Jazz Age.",978-0743273565,12.99
+139,The Catcher in the Rye,J.D. Salinger,Coming of Age,1951,Little,English,277,4.5,"A novel about teenage alienation and loss of innocence.",978-0316769488,13.99
+140,Lord of the Flies,William Golding,Allegory,1954,Penguin Books,English,224,4.5,"An allegorical novel about the dark side of human nature.",978-0140283334,10.99
+141,The Hobbit,J.R.R. Tolkien,Fantasy,1937,Mariner Books,English,310,4.8,"A fantasy novel about Bilbo Baggins' adventure with dwarves.",978-0547928227,14.99
+142,The Lord of the Rings,J.R.R. Tolkien,Fantasy,1954,Mariner Books,English,1178,4.9,"An epic fantasy novel about the quest to destroy the One Ring.",978-0544003415,24.99
+143,The Chronicles of Narnia,C.S. Lewis,Fantasy,1950,HarperCollins,English,767,4.8,"A series of fantasy novels about the magical land of Narnia.",978-0064404990,19.99
+144,The Giver,Lois Lowry,Dystopian,1993,Ember,English,240,4.7,"A dystopian novel about a seemingly perfect society.",978-0544336261,9.99
+145,The Picture of Dorian Gray,Oscar Wilde,Gothic,1890,Penguin Classics,English,254,4.6,"A Gothic novel about a man who remains young while his portrait ages.",978-0141439570,7.99
+146,The Goldfinch,Donna Tartt,Drama,2013,Little,English,771,4.4,"A novel about a boy who survives a terrorist attack.",978-0316055437,18.99
+147,The Kite Runner,Khaled Hosseini,Drama,2003,Riverhead Books,English,371,4.7,"A story of friendship and redemption in Afghanistan.",978-1594631931,15.99
+148,The Book Thief,Markus Zusak,Historical Fiction,2005,Knopf,English,552,4.7,"A novel about a young girl in Nazi Germany.",978-0375842207,12.99
+149,The Help,Kathryn Stockett,Historical Fiction,2009,Berkley,English,451,4.8,"A novel about African American maids in 1960s Mississippi.",978-0425232200,16.99
+150,The Martian,Andy Weir,Science Fiction,2011,Broadway Books,English,369,4.7,"A science fiction novel about an astronaut stranded on Mars.",978-0553418026,15.99
+151,The Handmaid's Tale,Margaret Atwood,Dystopian,1985,Anchor,English,311,4.7,"A dystopian novel about a totalitarian society.",978-0525562627,14.99
+152,The Name of the Wind,Patrick Rothfuss,Fantasy,2007,DAW,English,662,4.8,"A fantasy novel about a musician and magician.",978-0756404741,17.99
+153,The Silent Patient,Alex Michaelides,Thriller,2019,Celadon Books,English,352,4.5,"A psychological thriller about a woman who shoots her husband.",978-1250301697,16.99
+154,The Midnight Library,Matt Haig,Fantasy,2020,Viking,English,304,4.4,"A novel about infinite possibilities and parallel lives.",978-0525559474,15.99
+155,Project Hail Mary,Andy Weir,Science Fiction,2021,Ballantine Books,English,496,4.8,"A science fiction novel about an astronaut's mission to save humanity.",978-1524741338,17.99
+156,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Historical Fiction,2017,Atria Books,English,389,4.7,"A novel about a reclusive Hollywood legend.",978-1501161933,16.99
+157,Verity,Colleen Hoover,Thriller,2018,Grand Central Publishing,English,336,4.6,"A psychological thriller about a writer's dark secrets.",978-1538724736,15.99
+158,The House in the Cerulean Sea,T.J. Klune,Fantasy,2020,Tor Books,English,398,4.8,"A fantasy novel about a caseworker at a magical orphanage.",978-1250217288,16.99
+159,The Invisible Life of Addie LaRue,V.E. Schwab,Fantasy,2020,Tor Books,English,448,4.7,"A fantasy novel about a woman who makes a Faustian bargain.",978-0765387561,17.99
+160,The Thursday Murder Club,Richard Osman,Mystery,2020,Pamela Dorman Books,English,384,4.5,"A mystery novel about a group of elderly friends solving crimes.",978-0241988268,16.99
+161,The Last Thing He Told Me,Laura Dave,Thriller,2021,Simon & Schuster,English,320,4.6,"A thriller about a woman searching for her missing husband.",978-1501171345,15.99
+162,The Lincoln Highway,Amor Towles,Historical Fiction,2021,Viking,English,592,4.7,"A novel about a road trip across 1950s America.",978-0735222359,18.99
+163,The Paris Apartment,Lucy Foley,Thriller,2022,William Morrow,English,416,4.4,"A thriller set in a Paris apartment building.",978-0008384745,16.99
+164,The Maid,Nita Prose,Mystery,2022,Ballantine Books,English,304,4.5,"A mystery novel about a hotel maid who finds a dead guest.",978-0593356159,15.99
+165,The Great Expectations,Charles Dickens,Classic,1861,Penguin Classics,English,544,4.7,"A coming-of-age novel about Pip's journey to becoming a gentleman.",978-0141439563,9.99
+166,The Count of Monte Cristo,Alexandre Dumas,Adventure,1844,Penguin Classics,English,1276,4.8,"An adventure novel about revenge and redemption.",978-0140449266,12.99
+167,The Brothers Karamazov,Fyodor Dostoevsky,Philosophical,1880,Penguin Classics,English,796,4.8,"A philosophical novel about family, faith, and morality.",978-0140449242,14.99
+168,The Picture of Dorian Gray,Oscar Wilde,Gothic,1890,Penguin Classics,English,254,4.6,"A Gothic novel about a man who remains young while his portrait ages.",978-0141439570,7.99
+169,The Bell Jar,Sylvia Plath,Psychological,1963,Harper Perennial,English,288,4.5,"A semi-autobiographical novel about mental illness.",978-0060837020,14.99
+170,The Road,Cormac McCarthy,Post-Apocalyptic,2006,Vintage,English,287,4.7,"A post-apocalyptic novel about a father and son's journey.",978-0307387899,15.99
+171,The Secret History,Donna Tartt,Psychological,1992,Vintage,English,559,4.5,"A psychological thriller about a group of classics students.",978-1400031702,16.99
+172,The Goldfinch,Donna Tartt,Drama,2013,Little,English,771,4.4,"A novel about a boy who survives a terrorist attack.",978-0316055437,18.99
+173,The Night Circus,Erin Morgenstern,Fantasy,2011,Anchor,English,387,4.6,"A fantasy novel about a magical competition.",978-0307744432,15.99
+174,The Ocean at the End of the Lane,Neil Gaiman,Fantasy,2013,William Morrow,English,181,4.7,"A fantasy novel about childhood memories and magic.",978-0062255655,14.99
+175,The Song of Achilles,Madeline Miller,Historical Fiction,2011,Ecco,English,416,4.8,"A retelling of the Iliad from Patroclus's perspective.",978-0062060624,15.99
+176,The Book Thief,Markus Zusak,Historical Fiction,2005,Knopf,English,552,4.7,"A novel about a young girl in Nazi Germany.",978-0375842207,12.99
+177,The Da Vinci Code,Dan Brown,Thriller,2003,Anchor,English,489,4.2,"A mystery thriller about a conspiracy in the Catholic Church.",978-0307474278,9.99
+178,The Hunger Games,Suzanne Collins,Dystopian,2008,Scholastic Press,English,374,4.7,"A dystopian novel about a televised fight to the death.",978-0439023481,14.99
+179,The Fault in Our Stars,John Green,Romance,2012,Dutton Books,English,313,4.7,"A young adult novel about two teenagers with cancer.",978-0525478812,12.99
+180,The Girl with the Dragon Tattoo,Stieg Larsson,Thriller,2005,Vintage,English,465,4.4,"A crime thriller about a journalist and a hacker.",978-0307454546,15.99
+181,The Help,Kathryn Stockett,Historical Fiction,2009,Berkley,English,451,4.8,"A novel about African American maids in 1960s Mississippi.",978-0425232200,16.99
+182,The Martian,Andy Weir,Science Fiction,2011,Broadway Books,English,369,4.7,"A science fiction novel about an astronaut stranded on Mars.",978-0553418026,15.99
+183,The Handmaid's Tale,Margaret Atwood,Dystopian,1985,Anchor,English,311,4.7,"A dystopian novel about a totalitarian society.",978-0525562627,14.99
+184,The Name of the Wind,Patrick Rothfuss,Fantasy,2007,DAW,English,662,4.8,"A fantasy novel about a musician and magician.",978-0756404741,17.99
+185,The Silent Patient,Alex Michaelides,Thriller,2019,Celadon Books,English,352,4.5,"A psychological thriller about a woman who shoots her husband.",978-1250301697,16.99
+186,The Midnight Library,Matt Haig,Fantasy,2020,Viking,English,304,4.4,"A novel about infinite possibilities and parallel lives.",978-0525559474,15.99
+187,Project Hail Mary,Andy Weir,Science Fiction,2021,Ballantine Books,English,496,4.8,"A science fiction novel about an astronaut's mission to save humanity.",978-1524741338,17.99
+188,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Historical Fiction,2017,Atria Books,English,389,4.7,"A novel about a reclusive Hollywood legend.",978-1501161933,16.99
+189,Verity,Colleen Hoover,Thriller,2018,Grand Central Publishing,English,336,4.6,"A psychological thriller about a writer's dark secrets.",978-1538724736,15.99
+190,The House in the Cerulean Sea,T.J. Klune,Fantasy,2020,Tor Books,English,398,4.8,"A fantasy novel about a caseworker at a magical orphanage.",978-1250217288,16.99
+191,The Invisible Life of Addie LaRue,V.E. Schwab,Fantasy,2020,Tor Books,English,448,4.7,"A fantasy novel about a woman who makes a Faustian bargain.",978-0765387561,17.99
+192,The Thursday Murder Club,Richard Osman,Mystery,2020,Pamela Dorman Books,English,384,4.5,"A mystery novel about a group of elderly friends solving crimes.",978-0241988268,16.99
+193,The Last Thing He Told Me,Laura Dave,Thriller,2021,Simon & Schuster,English,320,4.6,"A thriller about a woman searching for her missing husband.",978-1501171345,15.99
+194,The Lincoln Highway,Amor Towles,Historical Fiction,2021,Viking,English,592,4.7,"A novel about a road trip across 1950s America.",978-0735222359,18.99
+195,The Paris Apartment,Lucy Foley,Thriller,2022,William Morrow,English,416,4.4,"A thriller set in a Paris apartment building.",978-0008384745,16.99
+196,The Maid,Nita Prose,Mystery,2022,Ballantine Books,English,304,4.5,"A mystery novel about a hotel maid who finds a dead guest.",978-0593356159,15.99
+197,The Great Expectations,Charles Dickens,Classic,1861,Penguin Classics,English,544,4.7,"A coming-of-age novel about Pip's journey to becoming a gentleman.",978-0141439563,9.99
+198,The Count of Monte Cristo,Alexandre Dumas,Adventure,1844,Penguin Classics,English,1276,4.8,"An adventure novel about revenge and redemption.",978-0140449266,12.99
+199,The Brothers Karamazov,Fyodor Dostoevsky,Philosophical,1880,Penguin Classics,English,796,4.8,"A philosophical novel about family, faith, and morality.",978-0140449242,14.99
+200,The Picture of Dorian Gray,Oscar Wilde,Gothic,1890,Penguin Classics,English,254,4.6,"A Gothic novel about a man who remains young while his portrait ages.",978-0141439570,7.99
+201,The Bell Jar,Sylvia Plath,Psychological,1963,Harper Perennial,English,288,4.5,"A semi-autobiographical novel about mental illness.",978-0060837020,14.99
+202,The Road,Cormac McCarthy,Post-Apocalyptic,2006,Vintage,English,287,4.7,"A post-apocalyptic novel about a father and son's journey.",978-0307387899,15.99
+203,The Secret History,Donna Tartt,Psychological,1992,Vintage,English,559,4.5,"A psychological thriller about a group of classics students.",978-1400031702,16.99
+204,The Goldfinch,Donna Tartt,Drama,2013,Little,English,771,4.4,"A novel about a boy who survives a terrorist attack.",978-0316055437,18.99
+205,The Night Circus,Erin Morgenstern,Fantasy,2011,Anchor,English,387,4.6,"A fantasy novel about a magical competition.",978-0307744432,15.99
+206,The Ocean at the End of the Lane,Neil Gaiman,Fantasy,2013,William Morrow,English,181,4.7,"A fantasy novel about childhood memories and magic.",978-0062255655,14.99
+207,The Song of Achilles,Madeline Miller,Historical Fiction,2011,Ecco,English,416,4.8,"A retelling of the Iliad from Patroclus's perspective.",978-0062060624,15.99
+208,The Book Thief,Markus Zusak,Historical Fiction,2005,Knopf,English,552,4.7,"A novel about a young girl in Nazi Germany.",978-0375842207,12.99
+209,The Da Vinci Code,Dan Brown,Thriller,2003,Anchor,English,489,4.2,"A mystery thriller about a conspiracy in the Catholic Church.",978-0307474278,9.99
+210,The Hunger Games,Suzanne Collins,Dystopian,2008,Scholastic Press,English,374,4.7,"A dystopian novel about a televised fight to the death.",978-0439023481,14.99
+211,The Fault in Our Stars,John Green,Romance,2012,Dutton Books,English,313,4.7,"A young adult novel about two teenagers with cancer.",978-0525478812,12.99
+212,The Girl with the Dragon Tattoo,Stieg Larsson,Thriller,2005,Vintage,English,465,4.4,"A crime thriller about a journalist and a hacker.",978-0307454546,15.99
+213,The Help,Kathryn Stockett,Historical Fiction,2009,Berkley,English,451,4.8,"A novel about African American maids in 1960s Mississippi.",978-0425232200,16.99
+214,The Martian,Andy Weir,Science Fiction,2011,Broadway Books,English,369,4.7,"A science fiction novel about an astronaut stranded on Mars.",978-0553418026,15.99
+215,The Handmaid's Tale,Margaret Atwood,Dystopian,1985,Anchor,English,311,4.7,"A dystopian novel about a totalitarian society.",978-0525562627,14.99
+216,The Name of the Wind,Patrick Rothfuss,Fantasy,2007,DAW,English,662,4.8,"A fantasy novel about a musician and magician.",978-0756404741,17.99
+217,The Silent Patient,Alex Michaelides,Thriller,2019,Celadon Books,English,352,4.5,"A psychological thriller about a woman who shoots her husband.",978-1250301697,16.99
+218,The Midnight Library,Matt Haig,Fantasy,2020,Viking,English,304,4.4,"A novel about infinite possibilities and parallel lives.",978-0525559474,15.99
+219,Project Hail Mary,Andy Weir,Science Fiction,2021,Ballantine Books,English,496,4.8,"A science fiction novel about an astronaut's mission to save humanity.",978-1524741338,17.99
+220,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Historical Fiction,2017,Atria Books,English,389,4.7,"A novel about a reclusive Hollywood legend.",978-1501161933,16.99
+221,Verity,Colleen Hoover,Thriller,2018,Grand Central Publishing,English,336,4.6,"A psychological thriller about a writer's dark secrets.",978-1538724736,15.99
+222,The House in the Cerulean Sea,T.J. Klune,Fantasy,2020,Tor Books,English,398,4.8,"A fantasy novel about a caseworker at a magical orphanage.",978-1250217288,16.99
+223,The Invisible Life of Addie LaRue,V.E. Schwab,Fantasy,2020,Tor Books,English,448,4.7,"A fantasy novel about a woman who makes a Faustian bargain.",978-0765387561,17.99
+224,The Thursday Murder Club,Richard Osman,Mystery,2020,Pamela Dorman Books,English,384,4.5,"A mystery novel about a group of elderly friends solving crimes.",978-0241988268,16.99
+225,The Last Thing He Told Me,Laura Dave,Thriller,2021,Simon & Schuster,English,320,4.6,"A thriller about a woman searching for her missing husband.",978-1501171345,15.99
+226,The Lincoln Highway,Amor Towles,Historical Fiction,2021,Viking,English,592,4.7,"A novel about a road trip across 1950s America.",978-0735222359,18.99
+227,The Paris Apartment,Lucy Foley,Thriller,2022,William Morrow,English,416,4.4,"A thriller set in a Paris apartment building.",978-0008384745,16.99
+228,The Maid,Nita Prose,Mystery,2022,Ballantine Books,English,304,4.5,"A mystery novel about a hotel maid who finds a dead guest.",978-0593356159,15.99
+229,The Great Expectations,Charles Dickens,Classic,1861,Penguin Classics,English,544,4.7,"A coming-of-age novel about Pip's journey to becoming a gentleman.",978-0141439563,9.99
+230,The Count of Monte Cristo,Alexandre Dumas,Adventure,1844,Penguin Classics,English,1276,4.8,"An adventure novel about revenge and redemption.",978-0140449266,12.99
+231,The Brothers Karamazov,Fyodor Dostoevsky,Philosophical,1880,Penguin Classics,English,796,4.8,"A philosophical novel about family, faith, and morality.",978-0140449242,14.99
+232,The Picture of Dorian Gray,Oscar Wilde,Gothic,1890,Penguin Classics,English,254,4.6,"A Gothic novel about a man who remains young while his portrait ages.",978-0141439570,7.99
+233,The Bell Jar,Sylvia Plath,Psychological,1963,Harper Perennial,English,288,4.5,"A semi-autobiographical novel about mental illness.",978-0060837020,14.99
+234,The Road,Cormac McCarthy,Post-Apocalyptic,2006,Vintage,English,287,4.7,"A post-apocalyptic novel about a father and son's journey.",978-0307387899,15.99
+235,The Secret History,Donna Tartt,Psychological,1992,Vintage,English,559,4.5,"A psychological thriller about a group of classics students.",978-1400031702,16.99
+236,The Goldfinch,Donna Tartt,Drama,2013,Little,English,771,4.4,"A novel about a boy who survives a terrorist attack.",978-0316055437,18.99
+237,The Night Circus,Erin Morgenstern,Fantasy,2011,Anchor,English,387,4.6,"A fantasy novel about a magical competition.",978-0307744432,15.99
+238,The Ocean at the End of the Lane,Neil Gaiman,Fantasy,2013,William Morrow,English,181,4.7,"A fantasy novel about childhood memories and magic.",978-0062255655,14.99
+239,The Song of Achilles,Madeline Miller,Historical Fiction,2011,Ecco,English,416,4.8,"A retelling of the Iliad from Patroclus's perspective.",978-0062060624,15.99
+240,The Book Thief,Markus Zusak,Historical Fiction,2005,Knopf,English,552,4.7,"A novel about a young girl in Nazi Germany.",978-0375842207,12.99
+241,The Da Vinci Code,Dan Brown,Thriller,2003,Anchor,English,489,4.2,"A mystery thriller about a conspiracy in the Catholic Church.",978-0307474278,9.99
+242,The Hunger Games,Suzanne Collins,Dystopian,2008,Scholastic Press,English,374,4.7,"A dystopian novel about a televised fight to the death.",978-0439023481,14.99
+243,The Fault in Our Stars,John Green,Romance,2012,Dutton Books,English,313,4.7,"A young adult novel about two teenagers with cancer.",978-0525478812,12.99
+244,The Girl with the Dragon Tattoo,Stieg Larsson,Thriller,2005,Vintage,English,465,4.4,"A crime thriller about a journalist and a hacker.",978-0307454546,15.99
+245,The Help,Kathryn Stockett,Historical Fiction,2009,Berkley,English,451,4.8,"A novel about African American maids in 1960s Mississippi.",978-0425232200,16.99
+246,The Martian,Andy Weir,Science Fiction,2011,Broadway Books,English,369,4.7,"A science fiction novel about an astronaut stranded on Mars.",978-0553418026,15.99
+247,The Handmaid's Tale,Margaret Atwood,Dystopian,1985,Anchor,English,311,4.7,"A dystopian novel about a totalitarian society.",978-0525562627,14.99
+248,The Name of the Wind,Patrick Rothfuss,Fantasy,2007,DAW,English,662,4.8,"A fantasy novel about a musician and magician.",978-0756404741,17.99
+249,The Silent Patient,Alex Michaelides,Thriller,2019,Celadon Books,English,352,4.5,"A psychological thriller about a woman who shoots her husband.",978-1250301697,16.99
+250,The Midnight Library,Matt Haig,Fantasy,2020,Viking,English,304,4.4,"A novel about infinite possibilities and parallel lives.",978-0525559474,15.99
+251,Project Hail Mary,Andy Weir,Science Fiction,2021,Ballantine Books,English,496,4.8,"A science fiction novel about an astronaut's mission to save humanity.",978-1524741338,17.99
+252,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Historical Fiction,2017,Atria Books,English,389,4.7,"A novel about a reclusive Hollywood legend.",978-1501161933,16.99
+253,Verity,Colleen Hoover,Thriller,2018,Grand Central Publishing,English,336,4.6,"A psychological thriller about a writer's dark secrets.",978-1538724736,15.99
+254,The House in the Cerulean Sea,T.J. Klune,Fantasy,2020,Tor Books,English,398,4.8,"A fantasy novel about a caseworker at a magical orphanage.",978-1250217288,16.99
+255,The Invisible Life of Addie LaRue,V.E. Schwab,Fantasy,2020,Tor Books,English,448,4.7,"A fantasy novel about a woman who makes a Faustian bargain.",978-0765387561,17.99
+256,The Thursday Murder Club,Richard Osman,Mystery,2020,Pamela Dorman Books,English,384,4.5,"A mystery novel about a group of elderly friends solving crimes.",978-0241988268,16.99
+257,The Last Thing He Told Me,Laura Dave,Thriller,2021,Simon & Schuster,English,320,4.6,"A thriller about a woman searching for her missing husband.",978-1501171345,15.99
+258,The Lincoln Highway,Amor Towles,Historical Fiction,2021,Viking,English,592,4.7,"A novel about a road trip across 1950s America.",978-0735222359,18.99
+259,The Paris Apartment,Lucy Foley,Thriller,2022,William Morrow,English,416,4.4,"A thriller set in a Paris apartment building.",978-0008384745,16.99
+260,The Maid,Nita Prose,Mystery,2022,Ballantine Books,English,304,4.5,"A mystery novel about a hotel maid who finds a dead guest.",978-0593356159,15.99
+261,The Great Expectations,Charles Dickens,Classic,1861,Penguin Classics,English,544,4.7,"A coming-of-age novel about Pip's journey to becoming a gentleman.",978-0141439563,9.99
+262,The Count of Monte Cristo,Alexandre Dumas,Adventure,1844,Penguin Classics,English,1276,4.8,"An adventure novel about revenge and redemption.",978-0140449266,12.99
+263,The Brothers Karamazov,Fyodor Dostoevsky,Philosophical,1880,Penguin Classics,English,796,4.8,"A philosophical novel about family, faith, and morality.",978-0140449242,14.99
+264,The Picture of Dorian Gray,Oscar Wilde,Gothic,1890,Penguin Classics,English,254,4.6,"A Gothic novel about a man who remains young while his portrait ages.",978-0141439570,7.99
+265,The Bell Jar,Sylvia Plath,Psychological,1963,Harper Perennial,English,288,4.5,"A semi-autobiographical novel about mental illness.",978-0060837020,14.99
+266,The Road,Cormac McCarthy,Post-Apocalyptic,2006,Vintage,English,287,4.7,"A post-apocalyptic novel about a father and son's journey.",978-0307387899,15.99
+267,The Secret History,Donna Tartt,Psychological,1992,Vintage,English,559,4.5,"A psychological thriller about a group of classics students.",978-1400031702,16.99
+268,The Goldfinch,Donna Tartt,Drama,2013,Little,English,771,4.4,"A novel about a boy who survives a terrorist attack.",978-0316055437,18.99
+269,The Night Circus,Erin Morgenstern,Fantasy,2011,Anchor,English,387,4.6,"A fantasy novel about a magical competition.",978-0307744432,15.99
+270,The Ocean at the End of the Lane,Neil Gaiman,Fantasy,2013,William Morrow,English,181,4.7,"A fantasy novel about childhood memories and magic.",978-0062255655,14.99
+271,The Song of Achilles,Madeline Miller,Historical Fiction,2011,Ecco,English,416,4.8,"A retelling of the Iliad from Patroclus's perspective.",978-0062060624,15.99
+272,The Book Thief,Markus Zusak,Historical Fiction,2005,Knopf,English,552,4.7,"A novel about a young girl in Nazi Germany.",978-0375842207,12.99
+273,The Da Vinci Code,Dan Brown,Thriller,2003,Anchor,English,489,4.2,"A mystery thriller about a conspiracy in the Catholic Church.",978-0307474278,9.99
+274,The Hunger Games,Suzanne Collins,Dystopian,2008,Scholastic Press,English,374,4.7,"A dystopian novel about a televised fight to the death.",978-0439023481,14.99
+275,The Fault in Our Stars,John Green,Romance,2012,Dutton Books,English,313,4.7,"A young adult novel about two teenagers with cancer.",978-0525478812,12.99
+276,The Girl with the Dragon Tattoo,Stieg Larsson,Thriller,2005,Vintage,English,465,4.4,"A crime thriller about a journalist and a hacker.",978-0307454546,15.99
+277,The Help,Kathryn Stockett,Historical Fiction,2009,Berkley,English,451,4.8,"A novel about African American maids in 1960s Mississippi.",978-0425232200,16.99
+278,The Martian,Andy Weir,Science Fiction,2011,Broadway Books,English,369,4.7,"A science fiction novel about an astronaut stranded on Mars.",978-0553418026,15.99
+279,The Handmaid's Tale,Margaret Atwood,Dystopian,1985,Anchor,English,311,4.7,"A dystopian novel about a totalitarian society.",978-0525562627,14.99
+280,The Name of the Wind,Patrick Rothfuss,Fantasy,2007,DAW,English,662,4.8,"A fantasy novel about a musician and magician.",978-0756404741,17.99
+281,The Silent Patient,Alex Michaelides,Thriller,2019,Celadon Books,English,352,4.5,"A psychological thriller about a woman who shoots her husband.",978-1250301697,16.99
+282,The Midnight Library,Matt Haig,Fantasy,2020,Viking,English,304,4.4,"A novel about infinite possibilities and parallel lives.",978-0525559474,15.99
+283,Project Hail Mary,Andy Weir,Science Fiction,2021,Ballantine Books,English,496,4.8,"A science fiction novel about an astronaut's mission to save humanity.",978-1524741338,17.99
+284,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Historical Fiction,2017,Atria Books,English,389,4.7,"A novel about a reclusive Hollywood legend.",978-1501161933,16.99
+285,Verity,Colleen Hoover,Thriller,2018,Grand Central Publishing,English,336,4.6,"A psychological thriller about a writer's dark secrets.",978-1538724736,15.99
+286,The House in the Cerulean Sea,T.J. Klune,Fantasy,2020,Tor Books,English,398,4.8,"A fantasy novel about a caseworker at a magical orphanage.",978-1250217288,16.99
+287,The Invisible Life of Addie LaRue,V.E. Schwab,Fantasy,2020,Tor Books,English,448,4.7,"A fantasy novel about a woman who makes a Faustian bargain.",978-0765387561,17.99
+288,The Thursday Murder Club,Richard Osman,Mystery,2020,Pamela Dorman Books,English,384,4.5,"A mystery novel about a group of elderly friends solving crimes.",978-0241988268,16.99
+289,The Last Thing He Told Me,Laura Dave,Thriller,2021,Simon & Schuster,English,320,4.6,"A thriller about a woman searching for her missing husband.",978-1501171345,15.99
+290,The Lincoln Highway,Amor Towles,Historical Fiction,2021,Viking,English,592,4.7,"A novel about a road trip across 1950s America.",978-0735222359,18.99
+291,The Paris Apartment,Lucy Foley,Thriller,2022,William Morrow,English,416,4.4,"A thriller set in a Paris apartment building.",978-0008384745,16.99
+292,The Maid,Nita Prose,Mystery,2022,Ballantine Books,English,304,4.5,"A mystery novel about a hotel maid who finds a dead guest.",978-0593356159,15.99
+293,The Great Expectations,Charles Dickens,Classic,1861,Penguin Classics,English,544,4.7,"A coming-of-age novel about Pip's journey to becoming a gentleman.",978-0141439563,9.99
+294,The Count of Monte Cristo,Alexandre Dumas,Adventure,1844,Penguin Classics,English,1276,4.8,"An adventure novel about revenge and redemption.",978-0140449266,12.99
+295,The Brothers Karamazov,Fyodor Dostoevsky,Philosophical,1880,Penguin Classics,English,796,4.8,"A philosophical novel about family, faith, and morality.",978-0140449242,14.99
+296,The Picture of Dorian Gray,Oscar Wilde,Gothic,1890,Penguin Classics,English,254,4.6,"A Gothic novel about a man who remains young while his portrait ages.",978-0141439570,7.99
+297,The Bell Jar,Sylvia Plath,Psychological,1963,Harper Perennial,English,288,4.5,"A semi-autobiographical novel about mental illness.",978-0060837020,14.99
+298,The Road,Cormac McCarthy,Post-Apocalyptic,2006,Vintage,English,287,4.7,"A post-apocalyptic novel about a father and son's journey.",978-0307387899,15.99
+299,The Secret History,Donna Tartt,Psychological,1992,Vintage,English,559,4.5,"A psychological thriller about a group of classics students.",978-1400031702,16.99
+300,The Goldfinch,Donna Tartt,Drama,2013,Little,English,771,4.4,"A novel about a boy who survives a terrorist attack.",978-0316055437,18.99
+301,Godaan,Munshi Premchand,Fiction,1936,HarperCollins,Hindi,320,4.7,"A classic Hindi novel about rural India and the struggles of a poor farmer.",978-8171673406,12.99
+302,Raag Darbari,Shrilal Shukla,Satire,1968,Harper Perennial,Hindi,344,4.6,"A satirical novel depicting rural Indian life and politics.",978-8126715185,13.99
+303,Maila Anchal,Phanishwar Nath Renu,Fiction,1954,Bharatiya Jnanpith,Hindi,400,4.5,"A novel set in rural Bihar, known for its regional realism.",978-8126300367,11.99
+304,Chandrakanta,Devaki Nandan Khatri,Fantasy,1888,Bharatiya Jnanpith,Hindi,400,4.4,"A pioneering Hindi fantasy novel with magical adventures.",978-8126300374,10.99
+305,Gaban,Munshi Premchand,Fiction,1931,HarperCollins,Hindi,312,4.5,"A story about greed, love, and social pressures in Indian society.",978-8171673413,12.99
+306,Kamayani,Jaishankar Prasad,Poetry,1936,Bharatiya Jnanpith,Hindi,250,4.7,"A celebrated Hindi epic poem exploring philosophy and emotion.",978-8126300381,9.99
+307,Pinjar,Amrita Pritam,Historical Fiction,1950,Hind Pocket Books,Hindi,200,4.6,"A novel about the trauma of Partition, focusing on women.",978-8121615466,10.99
+308,Suraj Ka Satvan Ghoda,Dharmveer Bharti,Fiction,1952,Bharatiya Jnanpith,Hindi,120,4.5,"A novella exploring the complexities of love and storytelling.",978-8126300398,8.99
+309,Kitne Pakistan,Kamal Kishore Goenka,Historical,2000,Rajkamal Prakashan,Hindi,350,4.4,"A novel reflecting on the idea of partition and identity.",978-8126300404,13.99
+310,Tyagpatra,Premchand,Fiction,1933,HarperCollins,Hindi,180,4.3,"A story about sacrifice and the status of women in society.",978-8171673420,9.99
+311,Prem Pachisi,Munshi Premchand,Short Stories,1921,HarperCollins,Hindi,250,4.6,"A collection of 25 short stories by Premchand.",978-8171673437,11.99
+312,Parineeta,Sarat Chandra Chattopadhyay,Romance,1914,HarperCollins,Hindi,200,4.5,"A romantic novel about love and social class.",978-8171673444,10.99
+313,Do Bailon Ki Katha,Premchand,Fiction,1917,HarperCollins,Hindi,80,4.7,"A touching story about two oxen and their bond.",978-8171673451,7.99
+314,Shesher Kabita,Rabindranath Tagore,Romance,1929,HarperCollins,Hindi,180,4.6,"A poetic love story by Tagore, translated into Hindi.",978-8171673468,9.99
+315,Andhere Mein,Harishankar Parsai,Satire,1961,Rajkamal Prakashan,Hindi,180,4.5,"A collection of satirical essays on Indian society.",978-8126300411,8.99
+316,Ek Gadhe Ki Atmakatha,Krishna Chander,Satire,1957,Rajkamal Prakashan,Hindi,160,4.4,"A satirical novel narrated by a donkey.",978-8126300428,8.99
+317,Alka,Shivani,Fiction,1960,Rajkamal Prakashan,Hindi,220,4.3,"A popular Hindi novel by the celebrated author Shivani.",978-8126300435,9.99
+318,Mitro Marjani,Krishna Sobti,Fiction,1966,HarperCollins,Hindi,180,4.5,"A bold novel about female desire and rural life.",978-8171673475,10.99
+319,Ret Samadhi,Geetanjali Shree,Fiction,2018,HarperCollins,Hindi,376,4.6,"A Booker Prize-winning novel about an elderly woman's journey.",978-9356290770,14.99
+320,Tabadala,Rajendra Yadav,Fiction,1966,Rajkamal Prakashan,Hindi,200,4.4,"A novel about bureaucracy and human relationships.",978-8126300442,9.99
+321,Naalukettu,M.T. Vasudevan Nair,Fiction,1958,DC Books,Malayalam,320,4.8,"A classic Malayalam novel about a Nair family in Kerala.",978-8126400012,12.99
+322,Kayar,Thakazhi Sivasankara Pillai,Fiction,1978,DC Books,Malayalam,1200,4.7,"An epic novel tracing the history of Kerala's people.",978-8126400029,18.99
+323,Chemmeen,Thakazhi Sivasankara Pillai,Fiction,1956,DC Books,Malayalam,224,4.6,"A tragic love story set in a fishing village.",978-8126400036,10.99
+324,Manju,M.T. Vasudevan Nair,Fiction,1964,DC Books,Malayalam,160,4.5,"A novel set in the misty hills of Munnar.",978-8126400043,8.99
+325,Oru Desathinte Katha,S.K. Pottekkatt,Fiction,1971,DC Books,Malayalam,600,4.7,"A semi-autobiographical novel about a man's travels.",978-8126400050,14.99
+326,Pathummayude Aadu,Vaikom Muhammad Basheer,Fiction,1959,DC Books,Malayalam,120,4.8,"A humorous novel about family life in Kerala.",978-8126400067,7.99
+327,Balyakalasakhi,Vaikom Muhammad Basheer,Romance,1944,DC Books,Malayalam,120,4.7,"A tragic love story set in Kerala.",978-8126400074,8.99
+328,Mathilukal,Vaikom Muhammad Basheer,Fiction,1965,DC Books,Malayalam,120,4.6,"A love story set in prison.",978-8126400081,8.99
+329,Ente Katha,Kamala Surayya,Autobiography,1973,DC Books,Malayalam,200,4.7,"The autobiography of the famous Malayalam writer.",978-8126400098,11.99
+330,Indulekha,O. Chandu Menon,Fiction,1889,DC Books,Malayalam,300,4.6,"The first major Malayalam novel, about a progressive woman.",978-8126400104,10.99
+331,Mayyazhippuzhayude Theerangalil,M. Mukundan,Fiction,1974,DC Books,Malayalam,400,4.5,"A novel set in the former French colony of Mahe.",978-8126400111,12.99
+332,Arabi Ponnu,M. T. Vasudevan Nair & Madhavikkutty,Fiction,1971,DC Books,Malayalam,350,4.4,"A novel about the gold trade in Kerala.",978-8126400128,11.99
+333,Daivathinte Vikrithikal,M. Mukundan,Fiction,1992,DC Books,Malayalam,250,4.5,"A novel about the changes in Mahe after independence.",978-8126400135,10.99
+334,Anubhavangal Palichakal,Thakazhi Sivasankara Pillai,Fiction,1958,DC Books,Malayalam,350,4.6,"A novel about the struggles of the working class.",978-8126400142,11.99
+335,Verukal,M.T. Vasudevan Nair,Fiction,1966,DC Books,Malayalam,200,4.7,"A novel about family roots and nostalgia.",978-8126400159,9.99
+336,Thiranjedutha Kathakal,Vaikom Muhammad Basheer,Short Stories,1972,DC Books,Malayalam,300,4.8,"A collection of selected short stories.",978-8126400166,12.99
+337,Neermathalam Pootha Kalam,Madhavikkutty,Short Stories,1972,DC Books,Malayalam,200,4.6,"A collection of short stories by Kamala Das.",978-8126400173,10.99
+338,Chidambara Rahasyam,Subhash Chandran,Fiction,2010,DC Books,Malayalam,400,4.5,"A novel about the mysteries of life and death.",978-8126400180,13.99
+339,Meesha,S. Hareesh,Fiction,2018,DC Books,Malayalam,400,4.7,"A novel exploring caste and identity in Kerala.",978-8126400197,14.99
+340,Pravasam,M. Mukundan,Fiction,2008,DC Books,Malayalam,350,4.6,"A novel about the Malayali diaspora.",978-8126400203,12.99
+341,Shankhumukham,Subhash Chandran,Fiction,2014,DC Books,Malayalam,300,4.5,"A novel set in the coastal region of Kerala.",978-8126400210,11.99
+342,Paradesi,Abdul Rahman,Fiction,2007,DC Books,Malayalam,250,4.4,"A novel about migration and displacement.",978-8126400227,10.99
+343,Premalekhanam,Vaikom Muhammad Basheer,Romance,1943,DC Books,Malayalam,120,4.7,"A humorous love story.",978-8126400234,8.99
+344,Ottal,Geethu Mohandas,Children's Fiction,2014,DC Books,Malayalam,100,4.6,"A story about a boy and his grandfather.",978-8126400241,7.99
+345,Swapnam,Vaikom Muhammad Basheer,Fiction,1951,DC Books,Malayalam,120,4.5,"A novel about dreams and reality.",978-8126400258,8.99
+346,Thakazhi Kathakal,Thakazhi Sivasankara Pillai,Short Stories,1970,DC Books,Malayalam,300,4.7,"A collection of short stories.",978-8126400265,12.99
+347,Sooryante Maranum,Vaikom Muhammad Basheer,Fiction,1977,DC Books,Malayalam,120,4.6,"A novel about the end of an era.",978-8126400272,8.99
+348,Pathiravayilla Raavil,Vaikom Muhammad Basheer,Fiction,1959,DC Books,Malayalam,120,4.5,"A story about a night without midnight.",978-8126400289,8.99
+349,Shavam,Subhash Chandran,Fiction,2015,DC Books,Malayalam,300,4.4,"A novel about death and the afterlife.",978-8126400296,10.99
+350,Chuvappu Naada,Vaikom Muhammad Basheer,Fiction,1960,DC Books,Malayalam,120,4.5,"A novel about revolution and change.",978-8126400302,8.99
+351,Chila Nerangalil Chila Manushyar,Malayattoor Ramakrishnan,Fiction,1970,DC Books,Malayalam,250,4.6,"A novel about human nature and relationships.",978-8126400319,11.99
+352,Pathummayude Aadu,Vaikom Muhammad Basheer,Fiction,1959,DC Books,Malayalam,120,4.8,"A humorous novel about family life in Kerala.",978-8126400326,7.99
+353,Mathilukal,Vaikom Muhammad Basheer,Fiction,1965,DC Books,Malayalam,120,4.6,"A love story set in prison.",978-8126400333,8.99
+354,Ente Katha,Kamala Surayya,Autobiography,1973,DC Books,Malayalam,200,4.7,"The autobiography of the famous Malayalam writer.",978-8126400340,11.99
+355,Indulekha,O. Chandu Menon,Fiction,1889,DC Books,Malayalam,300,4.6,"The first major Malayalam novel, about a progressive woman.",978-8126400357,10.99
+356,Mayyazhippuzhayude Theerangalil,M. Mukundan,Fiction,1974,DC Books,Malayalam,400,4.5,"A novel set in the former French colony of Mahe.",978-8126400364,12.99
+357,Arabi Ponnu,M. T. Vasudevan Nair & Madhavikkutty,Fiction,1971,DC Books,Malayalam,350,4.4,"A novel about the gold trade in Kerala.",978-8126400371,11.99
+358,Daivathinte Vikrithikal,M. Mukundan,Fiction,1992,DC Books,Malayalam,250,4.5,"A novel about the changes in Mahe after independence.",978-8126400388,10.99
+359,Anubhavangal Palichakal,Thakazhi Sivasankara Pillai,Fiction,1958,DC Books,Malayalam,350,4.6,"A novel about the struggles of the working class.",978-8126400395,11.99
+360,Verukal,M.T. Vasudevan Nair,Fiction,1966,DC Books,Malayalam,200,4.7,"A novel about family roots and nostalgia.",978-8126400401,9.99
+361,Thiranjedutha Kathakal,Vaikom Muhammad Basheer,Short Stories,1972,DC Books,Malayalam,300,4.8,"A collection of selected short stories.",978-8126400418,12.99
+362,Neermathalam Pootha Kalam,Madhavikkutty,Short Stories,1972,DC Books,Malayalam,200,4.6,"A collection of short stories by Kamala Das.",978-8126400425,10.99
+363,Chidambara Rahasyam,Subhash Chandran,Fiction,2010,DC Books,Malayalam,400,4.5,"A novel about the mysteries of life and death.",978-8126400432,13.99
+364,Meesha,S. Hareesh,Fiction,2018,DC Books,Malayalam,400,4.7,"A novel exploring caste and identity in Kerala.",978-8126400449,14.99
+365,Pravasam,M. Mukundan,Fiction,2008,DC Books,Malayalam,350,4.6,"A novel about the Malayali diaspora.",978-8126400456,12.99
+366,Shankhumukham,Subhash Chandran,Fiction,2014,DC Books,Malayalam,300,4.5,"A novel set in the coastal region of Kerala.",978-8126400463,11.99
+367,Paradesi,Abdul Rahman,Fiction,2007,DC Books,Malayalam,250,4.4,"A novel about migration and displacement.",978-8126400470,10.99
+368,Premalekhanam,Vaikom Muhammad Basheer,Romance,1943,DC Books,Malayalam,120,4.7,"A humorous love story.",978-8126400487,8.99
+369,Ottal,Geethu Mohandas,Children's Fiction,2014,DC Books,Malayalam,100,4.6,"A story about a boy and his grandfather.",978-8126400494,7.99
+370,Swapnam,Vaikom Muhammad Basheer,Fiction,1951,DC Books,Malayalam,120,4.5,"A novel about dreams and reality.",978-8126400500,8.99
+371,Thakazhi Kathakal,Thakazhi Sivasankara Pillai,Short Stories,1970,DC Books,Malayalam,300,4.7,"A collection of short stories.",978-8126400517,12.99
+372,Sooryante Maranum,Vaikom Muhammad Basheer,Fiction,1977,DC Books,Malayalam,120,4.6,"A novel about the end of an era.",978-8126400524,8.99
+373,Pathiravayilla Raavil,Vaikom Muhammad Basheer,Fiction,1959,DC Books,Malayalam,120,4.5,"A story about a night without midnight.",978-8126400531,8.99
+374,Shavam,Subhash Chandran,Fiction,2015,DC Books,Malayalam,300,4.4,"A novel about death and the afterlife.",978-8126400548,10.99
+375,Chuvappu Naada,Vaikom Muhammad Basheer,Fiction,1960,DC Books,Malayalam,120,4.5,"A novel about revolution and change.",978-8126400555,8.99
+376,Chila Nerangalil Chila Manushyar,Malayattoor Ramakrishnan,Fiction,1970,DC Books,Malayalam,250,4.6,"A novel about human nature and relationships.",978-8126400562,11.99
